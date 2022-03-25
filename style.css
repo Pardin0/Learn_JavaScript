@@ -1,0 +1,32 @@
+.grid{ 
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.monstro {
+    background-color: purple;
+    border-radius: 10px;
+}
+
+.atirador {
+    background-color: rgb(4, 0, 255);
+    
+}
+
+.tiro{
+    background-color: black;
+}
+
+.boom {
+    background-color: red ;
+}
